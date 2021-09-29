@@ -1,5 +1,5 @@
 ### Hi , I am Challyfilio😯
-- 👨‍🎓 I’m currently study in 
+- 👨‍🎓 I’m currently studying in 
   - BISTU
   - ICDD
 - 👨‍💻 I’m currently working on 
