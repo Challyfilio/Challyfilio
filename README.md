@@ -6,6 +6,7 @@
   - Multimedia Information Retrieval
   - Image Recognition
   - Computer Vision
+  - Vision Transformer
 - 🌱 I’m currently learning 
   - Machine Learning
   - Deep Learning
