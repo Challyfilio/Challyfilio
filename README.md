@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working on 
   - Multimedia Information Retrieval
   - Image Recognition
-  - Computer Vision
+  - Object Detection
   - Vision Transformer
 - 🌱 I’m currently learning 
   - Machine Learning
