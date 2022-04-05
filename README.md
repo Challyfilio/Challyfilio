@@ -4,9 +4,9 @@
   - ICDD
 - 👨‍💻 I’m currently working on 
   - Multimedia Information Retrieval
-  - Image Recognition
   - Object Detection
   - Vision Transformer
+  - CLIP
 - 🌱 I’m currently learning 
   - Machine Learning
   - Deep Learning
