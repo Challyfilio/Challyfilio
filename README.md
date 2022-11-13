@@ -8,7 +8,6 @@
   - Prompt Learing
   - CLIP
 - 🌱 I’m currently learning 
-  - Machine Learning
   - Deep Learning
   - 躺平 & 找女朋友
 - 🍁 Ask me about anything you like
