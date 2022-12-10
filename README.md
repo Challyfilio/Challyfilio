@@ -6,7 +6,7 @@
   - Multimedia Information Retrieval
   - Vision-Language Model
   - Prompt Learing
-  - CLIP
+  - UAV
 - 🌱 I’m currently learning 
   - Deep Learning
   - 躺平 & 找女朋友
