@@ -2,17 +2,16 @@
 - 👨‍🎓 I’m currently studying in 
   - BISTU
   - ICDD
-- 👨‍💻 I’m currently working on 
-  - Multimedia Information Retrieval
+- 👨‍💻 I’m currently working on
+  - Object Detection  
   - Vision-Language Model
   - Prompt Learing
-  - UAV
 - 🌱 I’m currently learning 
   - Deep Learning
   - 躺平 & 找女朋友
 - 🍁 Ask me about anything you like
 - 📫 How to reach me:
-  - Email to me: [📧](mailto:challyfilio4368@163.com)
+  - Email to me: [📧](mailto:challyfilio4368@vip.qq.com)
   - https://github.com/Challyfilio
   
 [![Challyfilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Challyfilio&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
