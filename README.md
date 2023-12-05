@@ -3,7 +3,8 @@
   - BISTU
   - ICDD
 - 👨‍💻 I’m currently working on
-  - Object Detection  
+  - Remote Sensing
+  - Object Detection
   - Vision-Language Model
   - Prompt Learing
 - 🌱 I’m currently learning 
